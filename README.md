@@ -132,8 +132,9 @@ python ml_namd/tools/check_no_cluster_info.py
 
 If you use this code, please cite the accompanying paper:
 
-> A. Khanna, T. Karella, *et al.*, "Machine Learning for Non Adiabatic Excited State Molecular
-> Dynamics," 2026 (DOI to be added on publication).
+> A. Khanna, P. J. Lohr, V. Athavale, I. Cho, T. Karella, V. M. Freixas, S. Fernandez-Alberti,
+> N. Govind, O. Isayev, N. Lubbers, M. Garavelli, S. Mukamel, and S. Tretiak, "Machine Learning for
+> Non Adiabatic Excited State Molecular Dynamics," 2026 (DOI to be added on publication).
 
 and, if you use the training pools or initial conditions, the replication dataset:
 
